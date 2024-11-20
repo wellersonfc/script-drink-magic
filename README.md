@@ -1,4 +1,4 @@
-# Script de Efeitos Aleatórios de Bebidas Mágicas com Animação de Beber (Vinho/Champanhe)
+# Script de Efeitos Aleatórios de Bebidas Mágicas
 
 Este script permite aos jogadores experimentar efeitos mágicos aleatórios e animações de beber com taça (como vinho ou champanhe) em servidores de roleplay, criando uma experiência imersiva e divertida. Cada bebida tem um efeito único, que pode incluir mudanças no humor do jogador e efeitos visuais específicos.
 
