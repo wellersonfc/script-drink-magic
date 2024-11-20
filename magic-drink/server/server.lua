@@ -1,0 +1,1 @@
+-- A lógica do servidor pode ser expandida conforme necessário
