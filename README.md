@@ -35,3 +35,7 @@ Assista ao vídeo de execução do script: [Execução do Script](https://drive.
 
 - **Nome**: Wellerson Ferreira de Carvalho  
 - **Discord ID**: 274919726155694080
+
+## Versão
+
+- 1.0
