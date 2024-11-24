@@ -39,3 +39,7 @@ Assista ao vídeo de execução do script: [Execução do Script](https://drive.
 ## Versão
 
 - 1.0.1
+
+## Sugestões 
+
+- Adicionar um tempo de espera de 1 minuto, ate conseguir usar a pocao novamente.
