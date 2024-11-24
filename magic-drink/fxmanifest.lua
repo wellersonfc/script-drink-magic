@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Wellerson de Carvalho'
 description 'Drinks Mágicos'
-version '1.0.0'
+version '1.0.1'
 
 -- Arquivos do NUI e recursos
 files {
