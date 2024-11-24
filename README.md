@@ -27,6 +27,15 @@ Este script permite aos jogadores experimentar efeitos mágicos aleatórios e an
 
 - Para utilizar o script, execute o comando `/drinkmagic` no chat do servidor, seguido pelo nome da bebida que deseja consumir. Por exemplo:
 
-## versao
+## Vídeo de Execução do Script
 
-- 1.0.1 - Ajustes nas cartas
+Assista ao vídeo de execução do script: [Execução do Script](https://drive.google.com/file/d/1ADZTlegLyfen2dROxD9xY6vLoLhRMJrC/view?usp=sharing)
+
+## Autor
+
+- **Nome**: Wellerson Ferreira de Carvalho  
+- **Discord ID**: 274919726155694080
+
+## Versão
+
+- 1.0.1
