@@ -3,7 +3,7 @@ local activeEffectHandle = nil
 
 -- Configuração centralizada dos drinks
 local drinksConfig = {
-    {type = "Kire", effect = "fire_wrecked_rc", message = "Você fica com tesão.", image = "imagens/kire.png", emote = "lapchair"},
+    {type = "Kire", effect = "fire_wrecked_rc", message = "Você fica com tesão.", image = "imagens/kire.png", emote = "lapdance3"},
     {type = "Elyndor", effect = "ent_anim_hen_flee", message = "Você só conta a verdade.", image = "imagens/elyndor.png", emote = "nervous3"},
     {type = "Kalisto", effect = "ent_anim_blown_radiator", message = "Você fica mal humorado e sarcástico.", image = "imagens/kalisto.png", emote = "flipoff"},
     {type = "Solan", effect = "veh_exhaust_afterburner", message = "Você fica extremamente positivo.", image = "imagens/solan.png", emote = "flip", scale = 0.6},

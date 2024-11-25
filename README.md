@@ -36,6 +36,11 @@ Assista ao vídeo de execução do script: [Execução do Script](https://drive.
 - **Nome**: Wellerson Ferreira de Carvalho  
 - **Discord ID**: 274919726155694080
 
+## Sugestao
+
+- Adicionar um time de 1 minuto a cada bebida, para os efeitos nao se sobreescreverem. E terem uma experiencia melhor. 
+
 ## Versão
 
-- 1.0.1
+- 1.0.1 -> Ajuste nas cartas.
+- 1.0.1 -> Ajuste na animacao
